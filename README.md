@@ -2,12 +2,17 @@
 
 Below are some Bug Report that I wrote
 
-Title: The arrows are disappearing in mid-air
-Severity : Minor
-Description :
-When the archer unit fires the arrows, they will disappear in mid-air, but they will still inflict damage on
+-----------------
+
+**Title**: The arrows are disappearing in mid-air
+
+**Severity** : Minor
+
+**Description** : When the archer unit fires the arrows, they will disappear in mid-air, but they will still inflict damage on
 targeted enemy unit.
-Steps to reproduce :
+
+**Steps to reproduce** :
+
 1. Enter the game
 2. Press “Start a new game”
 3. Select “Easy difficulty”
@@ -17,14 +22,23 @@ Steps to reproduce :
 7. Select “Golden archers” unit
 8. Issue an order to fire upon the “crazed archers” unit
 9. Observe the presence of the arrows in mid-air
-Expected results : The arrows should be visible before hitting their targets
-Actual results : The arrows dissapear in mid-air
-Title: The cutscene doesn’t end when “Golden Opportunity” Chapter starts
-Severity : Blocker
-Description : When the previous chapter ends, a new questline appears that tells the user’s character to find
+
+**Expected results** : The arrows should be visible before hitting their targets
+
+**Actual results** : The arrows dissapear in mid-air
+
+-----------------
+
+**Title**: The cutscene doesn’t end when “Golden Opportunity” Chapter starts
+
+**Severity** : Blocker
+
+**Description** : When the previous chapter ends, a new questline appears that tells the user’s character to find
 “Helena” at the docks to embark on the “Wavecrusher”. After the user’s character arives at the docks, he speaks
 with “Helena” and the cutscene doesn’t end begins.
-Steps to reproduce :
+
+**Steps to reproduce** :
+
 1. Enter the game
 2. Press “Load Game”
 3. Select “The Golden Opportunity” load option
@@ -38,18 +52,21 @@ Steps to reproduce :
 11. Navigate until the user’s character finds “Helena”
 12. Select “Speak” to engage the dialogue with “Helena”
 13. Look at the cutscene
-Expected results : The cutscene ends and a new chapter begins
-Actual results : The cutscene doesn’t end and a new chapter doesn’t begin
+
+**Expected results** : The cutscene ends and a new chapter begins
+
+**Actual results** : The cutscene doesn’t end and a new chapter doesn’t begin
 
 -----------------
 
-Title: Enemy continues combat through walls 
-Severity : Minor
-Description :
+**Title**: Enemy continues combat through walls 
 
-When the player attacks the enemy, the latter follows the player through walls to continue combat
-.
-Steps to reproduce :
+**Severity** : Minor
+
+**Description** : When the player attacks the enemy, the latter follows the player through walls to continue combat
+
+**Steps to reproduce** :
+
 1. Enter the game
 2. Press “Start a new game”
 3. Select “Normal Difficulty”
@@ -66,8 +83,9 @@ Steps to reproduce :
 14. Observe how the enemy continues combat through the building’s walls
 
 
-Expected results : The Greenhood Bandit should enter the door when following the player
- Actual results : The enemy goes through walls and continues combat
+**Expected results** : The Greenhood Bandit should enter the door when following the player
+
+**Actual results** : The enemy goes through walls and continues combat
 
 -----------------
 
