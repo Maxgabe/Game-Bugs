@@ -1,6 +1,6 @@
 # Bugs-
 
-Below are some Bug Report that I wrote
+Below are some Bug Reports that I wrote from my experience
 
 -----------------
 
