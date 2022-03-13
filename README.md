@@ -334,5 +334,3 @@ When the campfire is used in the camp, the campfire’s menu is absent and thus 
 
 **Actual results** : The ball gets stuck in the upper-right corner of the  gate
 
-
-
