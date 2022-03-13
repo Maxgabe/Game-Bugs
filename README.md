@@ -219,7 +219,7 @@ When the campfire is used in the camp, the campfire’s menu is absent and thus 
 
 **Title** : The in-game mailbox doesn't load user's mail
 
-**Severity** : Minor
+**Severity** : Low 
 
 **Description** : When the player attempts to open his mail through the in-game mailbox, the latter doesn’t load the mail to the user.
 
@@ -246,7 +246,7 @@ When the campfire is used in the camp, the campfire’s menu is absent and thus 
 
 **Title**: Random NPC warps in player’s home
 
-**Severity** : Minor
+**Severity** : Low
 
 **Description** : When the player returns to his in-game home, a random NPC warps in the middle of the house and stay there for a couple of seconds.
 
@@ -299,6 +299,40 @@ When the campfire is used in the camp, the campfire’s menu is absent and thus 
 **Actual results** : The cutscene doesn’t end and a new chapter doesn’t begin
 
 -----------------
+
+**Title**: Football gets stuck in the upper-right corner  of the fotball gate 
+
+**Severity** : Medium
+
+**Description** : A player shoots from the middle of the football field at the gate and the ball gets stuck in the upper-right corner  of the fotball gate on PS4
+
+**Steps to reproduce** :
+
+1. Turn on the PS4
+2. Enter the CD 
+3. Wait for the loading screen to load 
+4. Select "English" by pressing "X" on the controller
+5. Wait for the EA Sports loading screen to load
+6. Press "X" to enter the menu
+7. Select "Continue" by presing "Up Arrow" and then press "X" 
+8. Touch the right joystick button and move it with your thumb in the direction of "Kick Off"
+9. Press "X" to select "Kick Off"
+10. Skip "Kick Off" tutorial
+11. Move the right joystick button up to select "Yes" on "You have not selected a side. Are you sure you want to advance?"
+12. Select "Classic Match" by pressing "X"
+13. Select "Team" and press "X" to continue
+14. Select "Home" and press "X" to continue
+15. Press "X" for "Advance" on "Play Match"
+16. Select "Mina" 
+17. Wait for the cinematic to end
+18. Wait for Mina to get the possession of the ball
+19. Go to the middle part of the field and shot at the gate
+20. Observe how the ball gets stuck in the upper-right corner of the  gate
+
+
+**Expected results** : The ball should hit the gate and fall on the side and fall sideways to the goalkeeper
+
+**Actual results** : The ball gets stuck in the upper-right corner of the  gate
 
 
 
