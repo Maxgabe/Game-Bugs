@@ -330,7 +330,7 @@ When the campfire is used in the camp, the campfire’s menu is absent and thus 
 20. Observe how the ball gets stuck in the upper-right corner of the  gate
 
 
-**Expected results** : The ball should hit the gate and fall on the side and fall sideways to the goalkeeper
+**Expected results** : The ball should hit the gate and fall sideways to the goalkeeper
 
 **Actual results** : The ball gets stuck in the upper-right corner of the  gate
 
