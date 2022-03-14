@@ -360,7 +360,7 @@ When the campfire is used in the camp, the campfire’s menu is absent and thus 
 14. Observe the NPC being stuck and spinning on the ground 
 
 
-**Expected results** : The Npc should follow its designed purpose 
+**Expected results** : The NPC should follow its designed purpose 
 
 **Actual results** : The NPC is stuck and spinning on the ground near the camp 
 
