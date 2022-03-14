@@ -334,3 +334,36 @@ When the campfire is used in the camp, the campfire’s menu is absent and thus 
 
 **Actual results** : The ball gets stuck in the upper-right corner of the  gate
 
+-----------------
+
+**Title**: NPC gets stuck  and spins around on the ground near camp
+
+**Severity** : Medium
+
+**Description** : The player finds a NPC that is stuck and spinning on the ground near the camp 
+
+**Steps to reproduce** :
+
+1. Turn on the PS4
+2. Enter the CD 
+3. Wait for the loading screen to load 
+4. Select "New Game" by pressing "X"
+5. Wait for the cinematic to end
+6. Complete the tutorial
+7. Press the right directional button to acces the menu
+8. Move the right joystick button up and then right 2 times to select "World"
+9. Drag the left stick up to maximise the location of the camp
+10. Navigate on foot to the location
+11. Enter the camp 
+12. Find a Red Thick Tent of General Keiref
+13. Go behind the tent
+14. Observe the NPC being stuck and spinning on the ground 
+
+
+**Expected results** : The Npc should follow its designed purpose 
+
+**Actual results** : The NPC is stuck and spinning on the ground near the camp 
+
+-----------------
+
+
