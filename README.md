@@ -366,4 +366,27 @@ When the campfire is used in the camp, the campfire’s menu is absent and thus 
 
 -----------------
 
+**Title**: Loading screen menu freezes and background music repeats itself
+
+**Severity** : Medium
+
+**Description** : After selecting a mentor, the screen menu freezes and the background music repeats itself 
+
+
+**Steps to reproduce** :
+
+1. Turn on the PS4
+2. Enter the CD 
+3. Wait for the loading screen to load 
+4. Select "New Show" by pressing "X"
+5. Touch the right joystick button in the right direction to select "Mentors"
+6. Select a mentor
+7. Observe how the screen menu freezes and the existing background music repeats itself
+
+**Expected results** : The game should enter the playing phase after selecting a mentor
+
+**Actual results** : The screen menu freezes and the background music repeats itself 
+
+-----------------
+
 
